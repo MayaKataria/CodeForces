@@ -15,5 +15,6 @@ public class WayTooLong {
             }
             
         }
+        sc.close();
     }
 }

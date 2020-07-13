@@ -21,5 +21,6 @@ public class PetyaAndStrings {
         if(first.compareTo(second) < 0){
             System.out.println("-1");           
         }
+        sc.close();
     }
 }

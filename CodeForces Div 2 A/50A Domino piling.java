@@ -7,6 +7,7 @@ public class DominoPiling {
         int n=sc.nextInt();
         int res=(int)(m*n)/2;
         System.out.println(res);
+        sc.close();
     }
     
 }
